@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true table of the fees of the chief, or head-searcher, and of His Majesties five under-searchers in the port of London, established by the Commons in Parliament, anno 14 Car. 2 together with an account of the several laws and statutes that forbid them to exact, require, or receive, any other or greater fee of any merchant or other person whatsoever, than the several fees here under-specified, and the penalty and punishment of those searchers or officers that shall act contrary to the said laws / collected for the benefit of all persons, as well merchants as others, trading in the port of London.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38905</idno>
+            <idno type="STC">Wing E3627</idno>
+            <idno type="STC">ESTC R3447</idno>
+            <idno type="EEBO-CITATION">11882822</idno>
+            <idno type="OCLC">ocm 11882822</idno>
+            <idno type="VID">50333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50333)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 28:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true table of the fees of the chief, or head-searcher, and of His Majesties five under-searchers in the port of London, established by the Commons in Parliament, anno 14 Car. 2 together with an account of the several laws and statutes that forbid them to exact, require, or receive, any other or greater fee of any merchant or other person whatsoever, than the several fees here under-specified, and the penalty and punishment of those searchers or officers that shall act contrary to the said laws / collected for the benefit of all persons, as well merchants as others, trading in the port of London.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679/80 [i.e.1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Signed by vertue of an order from the House of Commons, dated the 17th of May, 1662. E. Turner"</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  England --  London.</term>
+               <term>Harbors --  England --  London --  Port charges.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_fees">
+            <pb facs="tcp:50333:1" rendition="simple:additions"/>
+            <head>An EXACT and TRUE TABLE Of the FEES of the Chief, or Head-Searcher, and of His Majeſties five Under-Searchers in the Port of <hi>London,</hi> Eſtabliſhed by the <hi>Commons</hi> in PARLIAMENT, <hi>Anno</hi> 14 <hi>Car.</hi> 2.</head>
+            <head type="sub">Together with an Account of the ſeveral Laws and Statutes that forbid them to <hi>Exact, Require,</hi> or <hi>Receive,</hi> any other or greater Fee of any Merchant or other Perſon whatſoever, than the ſeveral Fees here under-ſpecified, and the Penalty and Puniſhment of thoſe Searchers or Officers that ſhall act contrary to the ſaid Laws.</head>
+            <head type="sub">Collected for the Benefit of all Perſons, as well Merchants as others, Trading in the Port of <hi>London.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">The lawful Fees between the Chief, or Head-Searcher, and His Majeſties five <g ref="char:V">Ʋ</g>nder-Searchers that attend at <hi>London.</hi>
+                     </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">For every Ship that paſſeth in<g ref="char:EOLhyphen"/>to Foreign Parts at clearing out</cell>
+                     <cell>
+                        <hi>SPAIN, Portugal,</hi> the <hi>Streights, Weſt-Indies, Guinny,</hi> or the <hi>Weſtern-Iſlands.</hi>
+                     </cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eaſt-India</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>All other <hi>Engliſh</hi> Ships into Foreign Parts</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For every Strangers Ship or Bottom</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">The Lawful Fees due to His Majeſties five <g ref="char:V">Ʋ</g>nder-Searchers that attend at <hi>London.</hi>
+                     </cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Engliſh</hi> and <hi>Ali<g ref="char:EOLhyphen"/>ens</hi>
+                     </cell>
+                     <cell>FOR every Certificate for ſhipping out Goods, formerly Imported</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>But if half the Subſidy to be received back amounts but to forty ſhillings, then</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">To be paid by <hi>Engliſh</hi> and <hi>Ali<g ref="char:EOLhyphen"/>ens</hi> for Goods that pay Subſidy and paſs out by <hi>Cocquet</hi> or <hi>War<g ref="char:EOLhyphen"/>rant.</hi>
+                     </cell>
+                     <cell>Pipe, Puncheon, or Butt</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Hogſhead or Bagg</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Tin, the Block or Barrel</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>Beer-eager, Wood of all ſorts, Copperas, Allom, and ſuch groſs Goods, the Tun</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Corn the Laſt, Sea-Coal the Chaldron, Beer the Ton, Lead the Fodder</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>The Maund, Fat, or Pack</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">The Lawful Fees due to the five <g ref="char:V">Ʋ</g>nder Searchers.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="14">To be paid by <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and <hi>Aliens</hi> for Goods that pay Subſidy and paſs out by Cocquet or Warrant.</cell>
+                     <cell>The Bundle, Bale, Cheſt, or Caſe,</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Raiſins and Figs, the twenty Frails or Barrels</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>Butter and ſuch Goods, the Barrel</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>For every Coſt Certificate or Cocquet</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Tranſires for the Coaſt, free</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For every Horſe, Mare, or Gelding</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For certifying every Debenture for receiving back half Subſidy, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>For every piece of Ordnance</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the Endorſement of every Cocquet</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For every Certificate out of their Books, of Goods loſt at Sea, taken by Pirates, or return'd, where<g ref="char:EOLhyphen"/>by by ſo much may be ſhip'd Cuſtom-free</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For every Bill of Sufferance, or Bill of Store above ten Shillings in the Book of Rates</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>If under</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The Fardle or Truſs by <hi>Engliſh</hi> of three hundred weight, or upwards</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Woollen-Cloth, the Bale not exceeding five Cloths, or three hundred weight, Stuffs, Bayes or Says</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Merchants Strangers, Un-freemen of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or ſuch as ſhip on Strangers Ships or Veſſels.</cell>
+                     <cell>The Fardle or Truſs</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Bale</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <dateline>Signed by vertue of an Order from the <hi>Houſe of Commons</hi>
+               </dateline>
+               <dateline>Dated <date>the 17<hi>th</hi> of <hi>May,</hi> 1662.</date>
+               </dateline>
+               <signed>E. TURNER.</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <p>
+               <hi>Note</hi> here, That Merchants Strangers, Un-freemen of <hi>London,</hi> or ſuch as Ship on Strangers Ships or Veſſels, are not obliged to pay to the Searchers double Fees or Duties for any parcel of Goods whatſoever, except the Fardel or Truſs, 1 <hi>s.</hi> and the Bale 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Note</hi> alſo, That there is no Fees due to the Searchers, or any other Perſon whatſoever for Victualling Bills and Contents. And it is farther to be obſerved, That there is no Fee due to the Searchers, for any parcel of Goods that paſs out by Cocquet or Warrant, that is not particularly expreſſed in the aboveſaid Ta<g ref="char:EOLhyphen"/>ble, as for inſtance; for a Coach or Cart, <hi>&amp;c.</hi> if they paſs by Cocquet or Warrant, there is no Fee due, becauſe not above expreſſed, but if by Bill of Store, then 6 <hi>d.</hi> and no more, by reaſon it pays under 10 <hi>s.</hi> Cuſtom.</p>
+            <p>
+               <hi>Note,</hi> That every Searcher that belongs to the Cuſtom-Houſe, that takes greater Fees or Duties than what are above expreſſed, is guilty of that odious and abominable Crime <hi>Extortion,</hi> or <hi>Exaction,</hi> the Definition of which, you have in my Lord <hi>Cooks</hi> ſenſe, to be this, <hi>(viz.) Extortion in its proper ſenſe, is a great</hi> Miſ<g ref="char:EOLhyphen"/>priſion, <hi>by wreſting, or unlawfully taking by any Officer, by colour of his Office, any money, or valuable thing, of or from any man, either that is not due, or more than is due, or before it be due.</hi> 1 Inſtit. pag. 368. And in the ſame page, he ſaith, that <hi>it is ever accompanied with the grievous ſin of Perjury.</hi>
+            </p>
+            <p>Another ſaith, that <hi>Extortion is Wrong done by any Officer by colour of his Office, by taking exceſſive Reward or Fee for Execution of his Office, or otherwiſe; That it is no other thing than plain Robbery, or rather more odious than Robbery; for Robbery is apparent, and alwayes hath with it the countenance of</hi> Vice; <hi>but Extortion being as great a Vice as Robbery, it carries with it a countenance of</hi> Vertue, <hi>by reaſon whereof it is the more hard to be tried or diſcerned, and therefore more Odious. Expoſ. Law-Terms,</hi> pag. 153.</p>
+            <p>And becauſe ſome there are that will not ſtick to ſtretch their Office, Credit, and Conſcience, to purchaſe money, as well by Extortion as otherwiſe, it may not be amiſs to give the Reader an account of thoſe Laws, Orders, and Rules, which are now in Force, and eſtabliſh'd by Act of Parliament, and the Penalties that are inſerted therein, that ſo all Searchers that ſhall offend in that kind, in taking any other or greater Fees then are above expreſſed and Eſtabliſh'd by Law, may know the Penalties and Dangers they incurr, and ſo avoid them; and alſo that all Perſons whatſoever grieved thereby, may know and be acquainted with their Remedy and Relief againſt all ſuch Searchers that ſhall ſo offend.</p>
+            <p>
+               <hi>And in general,</hi> All Perſons that are guilty of Extortion, or Exaction, are guilty of a Great <hi>Miſpriſion,</hi> and ſo lyable to be indicted; and for their Puniſhment, my Lord <hi>Cook</hi> ſaith, that the Antient Common Law is, that <hi>Extortion and Exaction in His Majeſties Officers, is puniſhable by Fine and Impriſonment.</hi>
+            </p>
+            <p>12 <hi>Car.</hi> 2. For the particular Penalties againſt all Searchers that ſhall offend in this kind, ſee the 24th Rule in the Book of Rates, purſuant to the Act of Ton<g ref="char:EOLhyphen"/>nage and Poundage, which is as followeth <hi>(viz.)</hi> For avoiding of all Oppreſſion by any of the Officers of the Cuſtoms in any Port of this Kingdom, in exacting unreaſonable Fees from the Merchants, by reaſon of any Entry, or otherwiſe, touching the Shipping or Unſhipping of Goods, Wares, and Merchandize, <hi>It is Or<g ref="char:EOLhyphen"/>dered,</hi> That no Officer, Clerk, or other, belonging to any Cuſtom-Houſe whatſoever, ſhall <hi>EXACT, REQ<g ref="char:V">Ʋ</g>IRE,</hi> or <hi>RECEIVE</hi> any other, or greater Fee, of any Merchant or other whatſoever, than ſuch as are, or ſhall be Eſtabliſh'd by the Commons in Parliament Aſſembled. If any Officer or other ſhall Offend contrary to this Order, he ſhall forfeit his Office and Place, and be for ever after uncapable of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny Office in the Cuſtom-Houſe. And it is further Provided by the ſaid Act, that all Merchants, as well Denizens as Strangers, be well and honeſtly entreated <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd demeaned, without Oppreſſion to them to be done.</p>
+            <p>14 <hi>Car.</hi> 2. And alſo in an Act intituled, <hi>An Act for Preventing Frauds, and Regulati<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Abuſes in His Majeſties Cuſtoms,</hi> it is <hi>Provided and Enacted,</hi> That if any Perſon employed in His Majeſties Cuſtoms, ſhall <hi>demand</hi> or <hi>take</hi> any other or greate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um of Money than by Law is now due, or hereafter ſhall become due, or ſhall put any Merchant or other out of his Turn, without expreſs Order before, or im<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>diate Approbation after, from the Perſon or Perſons who are or ſhall be appointed by His Majeſty to Manage his Cuſtoms, or the Superiour Officers for the Cu<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ms; or ſhall illegally Detain the Goods of any Perſon, or ſhall Neglect or Refuſe to make Repayments and Allowances, which are or ſhall be due ſince the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th of <hi>June</hi> 1660. or ſhall not after Notice given, Give out and Execute his Warrant, ſhall be liable to double Coſts and Damages.</p>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>Munera ne capias, un<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tet Hamus in Eſca,</l>
+                  <l>Nulla carent Viſco <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>era, Virus habet.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
